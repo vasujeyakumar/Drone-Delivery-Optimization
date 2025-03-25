@@ -1,0 +1,28 @@
+{
+    "assignments": [
+        {
+            "drone": "D1",
+            "orders": [
+                {
+                    "order": "O1",
+                    "time_taken": 0.12,
+                    "distance": 15
+                }
+            ],
+            "total_time": 0.25,
+            "total_distance": 30
+        },
+        {
+            "drone": "D2",
+            "orders": [
+                {
+                    "order": "O2",
+                    "time_taken": 0.09,
+                    "distance": 8
+                }
+            ],
+            "total_time": 0.18,
+            "total_distance": 16
+        }
+    ]
+}
