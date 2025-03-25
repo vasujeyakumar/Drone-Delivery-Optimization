@@ -28,7 +28,7 @@ pip install pandas
 ```
 4. **Run the script:**
 ```bash
-python drone_delivery_optimizer.py
+python drone.py
 ```
 
 ---
